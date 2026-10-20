@@ -71,6 +71,17 @@
 
 ---
 
+## 📊 Em números
+
+<div align="center">
+  <img src="org-stats.svg" />
+  <img src="org-languages.svg" />
+</div>
+
+<sub>Inclui os repositórios privados; só os totais são exibidos. Atualizado todo dia.</sub>
+
+---
+
 ## 👥 Time no GitHub
 
 <a href="https://github.com/marcioschmitt"><img src="https://github.com/marcioschmitt.png" width="64" height="64" alt="marcioschmitt" /></a>
